@@ -1,0 +1,38 @@
+/.vscode
+/Acceso_a_vase_local.ipynb
+/calendario.csv
+/carga de archivos csv.ipynb
+/cat_canales.csv
+/cat_categorias.csv
+/cat_clientes.csv
+/cat_productos.csv
+/completo.py
+/data_ventas_Ene2023_Nov2025.csv
+/fact_ventas_cabecera.csv
+/fact_ventas_detalle.csv
+/forecast_20dias_20251215.csv
+/forecast_20dias_20251215_sin_dic.csv
+/forecast_long_20251215.csv
+/forecast_pivot_por_fechas_20251215.csv
+/Generación de DF.ipynb
+/Generación de DF_v2. txt.ipynb
+/Generación de DF_v2.ipynb
+/grafica_ventas_mysql.png
+/modelo a base.py
+/Modelos_por_categoria.ipynb
+/modelo_categoria_Accesorios.joblib
+/modelo_categoria_Empanada.joblib
+/modelo_categoria_Especial_de_Temporada.joblib
+/modelo_categoria_Galletas.joblib
+/modelo_categoria_Gelatinas_y_Flanes.joblib
+/modelo_categoria_Panadería.joblib
+/modelo_categoria_Pastelería_Crema.joblib
+/modelo_categoria_Pastelería_Mantequilla.joblib
+/modelo_categoria_Repostería_Individual.joblib
+/Previo_recursivo.py
+/prueba_query.py
+/Untitled-1.ipynb
+/Untitled-11.ipynb
+/Untitled-2.ipynb
+/Untitled-3.ipynb
+/Untitled-4.ipynb
