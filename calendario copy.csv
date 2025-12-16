@@ -1,0 +1,122 @@
+Año,Fecha,Día,Evento,Tipo
+2023,01/01/2023,Domingo,Año Nuevo,Oficial
+2023,13/01/2023,Viernes,Pago Quincena 1 Ene (Adelantado),Nómina
+2023,31/01/2023,Martes,Pago Quincena 2 Ene,Nómina
+2023,06/02/2023,Lunes,Día de la Constitución (Recorrido),Oficial - Puente
+2023,15/02/2023,Miércoles,Pago Quincena 1 Feb,Nómina
+2023,28/02/2023,Martes,Pago Quincena 2 Feb,Nómina
+2023,15/03/2023,Miércoles,Pago Quincena 1 Mar,Nómina
+2023,20/03/2023,Lunes,Natalicio Benito Juárez (Recorrido),Oficial - Puente
+2023,31/03/2023,Viernes,Pago Quincena 2 Mar,Nómina
+2023,06/04/2023,Jueves,Jueves Santo,Cultural
+2023,07/04/2023,Viernes,Viernes Santo,Cultural
+2023,14/04/2023,Viernes,Pago Quincena 1 Abr (Adelantado),Nómina
+2023,28/04/2023,Viernes,Pago Quincena 2 Abr (Adelantado),Nómina
+2023,30/04/2023,Domingo,Día del Niño,Familiar
+2023,01/05/2023,Lunes,Día del Trabajo,Oficial - Puente
+2023,05/05/2023,Viernes,Batalla de Puebla,Cultural
+2023,10/05/2023,Miércoles,Día de la Madre,Familiar
+2023,15/05/2023,Lunes,Pago Quincena 1 May,Nómina
+2023,31/05/2023,Miércoles,Pago Quincena 2 May,Nómina
+2023,15/06/2023,Jueves,Pago Quincena 1 Jun,Nómina
+2023,18/06/2023,Domingo,Día del Padre,Familiar
+2023,30/06/2023,Viernes,Pago Quincena 2 Jun,Nómina
+2023,14/07/2023,Viernes,Pago Quincena 1 Jul (Adelantado),Nómina
+2023,31/07/2023,Lunes,Pago Quincena 2 Jul,Nómina
+2023,15/08/2023,Martes,Pago Quincena 1 Ago,Nómina
+2023,28/08/2023,Lunes,Día de los Abuelos,Familiar
+2023,31/08/2023,Jueves,Pago Quincena 2 Ago,Nómina
+2023,15/09/2023,Viernes,Pago Quincena 1 Sep,Nómina
+2023,16/09/2023,Sábado,Día de la Independencia,Oficial
+2023,29/09/2023,Viernes,Pago Quincena 2 Sep (Adelantado),Nómina
+2023,13/10/2023,Viernes,Pago Quincena 1 Oct (Adelantado),Nómina
+2023,31/10/2023,Martes,Pago Quincena 2 Oct,Nómina
+2023,02/11/2023,Jueves,Día de Muertos,Cultural
+2023,15/11/2023,Miércoles,Pago Quincena 1 Nov,Nómina
+2023,20/11/2023,Lunes,Revolución Mexicana,Oficial - Puente
+2023,30/11/2023,Jueves,Pago Quincena 2 Nov,Nómina
+2023,12/12/2023,Martes,Virgen de Guadalupe,Cultural
+2023,15/12/2023,Viernes,Pago Quincena 1 Dic,Nómina
+2023,25/12/2023,Lunes,Navidad,Oficial - Puente
+2023,29/12/2023,Viernes,Pago Quincena 2 Dic (Adelantado),Nómina
+2024,01/01/2024,Lunes,Año Nuevo,Oficial - Puente
+2024,15/01/2024,Lunes,Pago Quincena 1 Ene,Nómina
+2024,31/01/2024,Miércoles,Pago Quincena 2 Ene,Nómina
+2024,05/02/2024,Lunes,Día de la Constitución,Oficial - Puente
+2024,15/02/2024,Jueves,Pago Quincena 1 Feb,Nómina
+2024,29/02/2024,Jueves,Pago Quincena 2 Feb,Nómina
+2024,15/03/2024,Viernes,Pago Quincena 1 Mar,Nómina
+2024,18/03/2024,Lunes,Natalicio Benito Juárez (Recorrido),Oficial - Puente
+2024,28/03/2024,Jueves,Jueves Santo,Cultural
+2024,29/03/2024,Viernes,Viernes Santo,Cultural
+2024,29/03/2024,Viernes,Pago Quincena 2 Mar (Adelantado Jueves/Viernes),Nómina
+2024,15/04/2024,Lunes,Pago Quincena 1 Abr,Nómina
+2024,30/04/2024,Martes,Día del Niño,Familiar
+2024,30/04/2024,Martes,Pago Quincena 2 Abr,Nómina
+2024,01/05/2024,Miércoles,Día del Trabajo,Oficial
+2024,10/05/2024,Viernes,Día de la Madre,Familiar
+2024,15/05/2024,Miércoles,Pago Quincena 1 May,Nómina
+2024,31/05/2024,Viernes,Pago Quincena 2 May,Nómina
+2024,02/06/2024,Domingo,Elecciones Federales,Oficial
+2024,14/06/2024,Viernes,Pago Quincena 1 Jun (Adelantado),Nómina
+2024,16/06/2024,Domingo,Día del Padre,Familiar
+2024,28/06/2024,Viernes,Pago Quincena 2 Jun (Adelantado),Nómina
+2024,15/07/2024,Lunes,Pago Quincena 1 Jul,Nómina
+2024,31/07/2024,Miércoles,Pago Quincena 2 Jul,Nómina
+2024,15/08/2024,Jueves,Pago Quincena 1 Ago,Nómina
+2024,28/08/2024,Miércoles,Día de los Abuelos,Familiar
+2024,30/08/2024,Viernes,Pago Quincena 2 Ago (Adelantado),Nómina
+2024,13/09/2024,Viernes,Pago Quincena 1 Sep (Adelantado),Nómina
+2024,16/09/2024,Lunes,Día de la Independencia,Oficial - Puente
+2024,30/09/2024,Lunes,Pago Quincena 2 Sep,Nómina
+2024,01/10/2024,Martes,Transmisión Poder Ejecutivo,Oficial
+2024,15/10/2024,Martes,Pago Quincena 1 Oct,Nómina
+2024,31/10/2024,Jueves,Pago Quincena 2 Oct,Nómina
+2024,02/11/2024,Sábado,Día de Muertos,Cultural
+2024,14/11/2024,Jueves,Pago Quincena 1 Nov (Adelantado),Nómina
+2024,18/11/2024,Lunes,Revolución Mexicana (Recorrido),Oficial - Puente
+2024,29/11/2024,Viernes,Pago Quincena 2 Nov (Adelantado),Nómina
+2024,12/12/2024,Jueves,Virgen de Guadalupe,Cultural
+2024,13/12/2024,Viernes,Pago Quincena 1 Dic (Adelantado),Nómina
+2024,25/12/2024,Miércoles,Navidad,Oficial
+2024,31/12/2024,Martes,Pago Quincena 2 Dic,Nómina
+2025,01/01/2025,Miércoles,Año Nuevo,Oficial
+2025,15/01/2025,Miércoles,Pago Quincena 1 Ene,Nómina
+2025,31/01/2025,Viernes,Pago Quincena 2 Ene,Nómina
+2025,03/02/2025,Lunes,Día de la Constitución (Recorrido),Oficial - Puente
+2025,14/02/2025,Viernes,Pago Quincena 1 Feb (Adelantado),Nómina
+2025,28/02/2025,Viernes,Pago Quincena 2 Feb,Nómina
+2025,14/03/2025,Viernes,Pago Quincena 1 Mar (Adelantado),Nómina
+2025,17/03/2025,Lunes,Natalicio Benito Juárez (Recorrido),Oficial - Puente
+2025,31/03/2025,Lunes,Pago Quincena 2 Mar,Nómina
+2025,15/04/2025,Martes,Pago Quincena 1 Abr,Nómina
+2025,17/04/2025,Jueves,Jueves Santo,Cultural
+2025,18/04/2025,Viernes,Viernes Santo,Cultural
+2025,30/04/2025,Miércoles,Día del Niño,Familiar
+2025,30/04/2025,Miércoles,Pago Quincena 2 Abr,Nómina
+2025,01/05/2025,Jueves,Día del Trabajo,Oficial
+2025,05/05/2025,Lunes,Batalla de Puebla,Cultural
+2025,09/05/2025,Viernes,Pago Quincena 1 May (Adelantado),Nómina
+2025,10/05/2025,Sábado,Día de la Madre,Familiar
+2025,30/05/2025,Viernes,Pago Quincena 2 May (Adelantado),Nómina
+2025,13/06/2025,Viernes,Pago Quincena 1 Jun (Adelantado),Nómina
+2025,15/06/2025,Domingo,Día del Padre,Familiar
+2025,30/06/2025,Lunes,Pago Quincena 2 Jun,Nómina
+2025,15/07/2025,Martes,Pago Quincena 1 Jul,Nómina
+2025,31/07/2025,Jueves,Pago Quincena 2 Jul,Nómina
+2025,15/08/2025,Viernes,Pago Quincena 1 Ago,Nómina
+2025,28/08/2025,Jueves,Día de los Abuelos,Familiar
+2025,29/08/2025,Viernes,Pago Quincena 2 Ago (Adelantado),Nómina
+2025,15/09/2025,Lunes,Pago Quincena 1 Sep,Nómina
+2025,16/09/2025,Martes,Día de la Independencia,Oficial
+2025,30/09/2025,Martes,Pago Quincena 2 Sep,Nómina
+2025,15/10/2025,Miércoles,Pago Quincena 1 Oct,Nómina
+2025,31/10/2025,Viernes,Pago Quincena 2 Oct,Nómina
+2025,02/11/2025,Domingo,Día de Muertos,Cultural
+2025,14/11/2025,Viernes,Pago Quincena 1 Nov (Adelantado),Nómina
+2025,17/11/2025,Lunes,Revolución Mexicana (Recorrido),Oficial - Puente
+2025,28/11/2025,Viernes,Pago Quincena 2 Nov (Adelantado),Nómina
+2025,12/12/2025,Viernes,Virgen de Guadalupe,Cultural
+2025,15/12/2025,Lunes,Pago Quincena 1 Dic,Nómina
+2025,25/12/2025,Jueves,Navidad,Oficial
+2025,31/12/2025,Miércoles,Pago Quincena 2 Dic,Nómina
